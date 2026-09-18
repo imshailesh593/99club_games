@@ -6,9 +6,14 @@ A full-stack gaming and lottery prediction web application featuring **WinGo**, 
 
 ## 🔑 Login Credentials
 
-### Web Portal
+### Web Portal (User)
 - **Local URL**: `https://99club.test`
 - **Mobile Number**: `9309863630`
+- **Password**: `bagalrohan555`
+
+### Admin Control Panel
+- **Admin URL**: `https://99club.test/bull/`
+- **Username**: `Rohan` (or `9309863630`)
 - **Password**: `bagalrohan555`
 
 ---
@@ -114,3 +119,4 @@ nohup php cron_runner.php > cron_daemon.log 2>&1 &
 
 5. **CORS Headers Corrected**:
    - Fixed hardcoded origin header in `GetThirdGameList.php` to enable third-party game listing.
+
