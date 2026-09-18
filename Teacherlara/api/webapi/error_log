@@ -1,0 +1,91 @@
+[17-Sep-2026 16:51:42 Asia/Kolkata] PHP Warning:  Undefined array key 1 in /home/clubvbra/public_html/Teacherlara/api/webapi/GetCustomerServiceTypelist.php on line 32
+[17-Sep-2026 16:51:42 Asia/Kolkata] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/functions2.php on line 22
+[17-Sep-2026 16:51:42 Asia/Kolkata] PHP Warning:  Undefined array key 1 in /home/clubvbra/public_html/Teacherlara/functions2.php on line 24
+[17-Sep-2026 16:51:42 Asia/Kolkata] PHP Deprecated:  base64_decode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/functions2.php on line 24
+[17-Sep-2026 16:51:42 Asia/Kolkata] PHP Warning:  Undefined array key 2 in /home/clubvbra/public_html/Teacherlara/functions2.php on line 25
+[18-Sep-2026 14:54:38 Asia/Kolkata] PHP Warning:  Undefined variable $withdrawRow in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:38 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:38 Asia/Kolkata] PHP Warning:  Undefined variable $i in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:50 Asia/Kolkata] PHP Warning:  Undefined variable $withdrawRow in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:50 Asia/Kolkata] PHP Warning:  Undefined variable $i in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:52 Asia/Kolkata] PHP Warning:  Undefined variable $withdrawRow in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:52 Asia/Kolkata] PHP Warning:  Undefined variable $i in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:54 Asia/Kolkata] PHP Warning:  Undefined variable $withdrawRow in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:54 Asia/Kolkata] PHP Warning:  Undefined variable $i in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:59 Asia/Kolkata] PHP Warning:  Undefined variable $withdrawRow in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 14:54:59 Asia/Kolkata] PHP Warning:  Undefined variable $i in /home/clubvbra/public_html/Teacherlara/api/webapi/GetWithdrawLog.php on line 102
+[18-Sep-2026 15:43:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 62
+[18-Sep-2026 15:43:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 79
+[18-Sep-2026 15:43:44 Asia/Kolkata] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 65
+[18-Sep-2026 15:43:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 80
+[18-Sep-2026 15:43:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 83
+[18-Sep-2026 15:43:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 86
+[18-Sep-2026 15:43:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 89
+[18-Sep-2026 15:43:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 93
+[18-Sep-2026 15:43:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 94
+[18-Sep-2026 15:43:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 62
+[18-Sep-2026 15:43:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 63
+[18-Sep-2026 15:43:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 64
+[18-Sep-2026 15:43:44 Asia/Kolkata] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 64
+[18-Sep-2026 15:43:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 62
+[18-Sep-2026 15:43:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 63
+[18-Sep-2026 15:43:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 64
+[18-Sep-2026 15:43:46 Asia/Kolkata] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 64
+[18-Sep-2026 15:43:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 62
+[18-Sep-2026 15:43:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 63
+[18-Sep-2026 15:43:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 64
+[18-Sep-2026 15:43:47 Asia/Kolkata] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 64
+[18-Sep-2026 15:43:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 62
+[18-Sep-2026 15:43:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 79
+[18-Sep-2026 15:43:47 Asia/Kolkata] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 65
+[18-Sep-2026 15:43:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 80
+[18-Sep-2026 15:43:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 83
+[18-Sep-2026 15:43:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 86
+[18-Sep-2026 15:43:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 89
+[18-Sep-2026 15:43:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 93
+[18-Sep-2026 15:43:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 94
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 62
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 79
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 65
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 80
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 83
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 86
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 89
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 93
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 94
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 62
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 63
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 64
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 64
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 62
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 63
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 64
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 64
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 62
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 79
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 65
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 80
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 83
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 86
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 89
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 93
+[18-Sep-2026 15:43:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 94
+[18-Sep-2026 15:44:18 Asia/Kolkata] PHP Warning:  Undefined array key "payTypeId" in /home/clubvbra/public_html/Teacherlara/api/webapi/GetRechargeTypes.php on line 27
+[18-Sep-2026 15:44:18 Asia/Kolkata] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/api/webapi/GetRechargeTypes.php on line 27
+[18-Sep-2026 15:47:04 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 62
+[18-Sep-2026 15:47:04 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 79
+[18-Sep-2026 15:47:04 Asia/Kolkata] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 65
+[18-Sep-2026 15:47:04 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 80
+[18-Sep-2026 15:47:04 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 83
+[18-Sep-2026 15:47:04 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 86
+[18-Sep-2026 15:47:04 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 89
+[18-Sep-2026 15:47:04 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 93
+[18-Sep-2026 15:47:04 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetK3OneEmerd.php on line 94
+[18-Sep-2026 15:47:04 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 62
+[18-Sep-2026 15:47:04 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 63
+[18-Sep-2026 15:47:04 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 64
+[18-Sep-2026 15:47:04 Asia/Kolkata] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/clubvbra/public_html/Teacherlara/api/webapi/GetGameK3Issue.php on line 64

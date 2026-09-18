@@ -1,0 +1,11 @@
+14:50:45 - IP: 1.38.62.201
+Method: POST
+Content-Type: application/json;charset=UTF-8
+Raw Input: {"username":"919528969831","pwd":"9528969831","phonetype":0,"logintype":"mobile","packId":"","deviceId":null,"language":0,"random":"1537777aa7b54cc8ad62c039e09d51b5","signature":"B6C56DF49C34926CD581D0E626B2F449","timestamp":1770024046}
+POST Data: Array
+(
+)
+
+----------------------------------------
+API Response (200): {"data":null,"code":7,"msg":"Param is Invalid","msgCode":6,"serviceNowTime":"2026-02-02 14:50:45"}
+

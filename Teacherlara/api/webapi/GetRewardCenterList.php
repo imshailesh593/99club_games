@@ -1,0 +1,143 @@
+{
+    "data": {
+        "list": [
+            {
+                "receiveTaskId": null,
+                "vipLevel": null,
+                "vipRewardType": null,
+                "amount": 0.0,
+                "rewardType": 7,
+                "createTime": "2026-03-12 22:46:37",
+                "receiveStatus": 0,
+                "recordType": 1,
+                "maxRewardableAmount": 7000.00,
+                "maxRewardableRate": null,
+                "isReceiveButtonHidden": false
+            },
+            {
+                "receiveTaskId": null,
+                "vipLevel": null,
+                "vipRewardType": null,
+                "amount": 0.0,
+                "rewardType": 10,
+                "createTime": "2026-03-12 22:46:37",
+                "receiveStatus": 0,
+                "recordType": 1,
+                "maxRewardableAmount": null,
+                "maxRewardableRate": 0.0200,
+                "isReceiveButtonHidden": false
+            },
+            {
+                "receiveTaskId": null,
+                "vipLevel": null,
+                "vipRewardType": null,
+                "amount": 0.0,
+                "rewardType": 122,
+                "createTime": "2026-03-12 22:46:37",
+                "receiveStatus": 0,
+                "recordType": 1,
+                "maxRewardableAmount": 5888.00,
+                "maxRewardableRate": null,
+                "isReceiveButtonHidden": false
+            },
+            {
+                "receiveTaskId": null,
+                "vipLevel": null,
+                "vipRewardType": null,
+                "amount": 0.0,
+                "rewardType": 102,
+                "createTime": "2026-03-12 22:46:37",
+                "receiveStatus": 0,
+                "recordType": 1,
+                "maxRewardableAmount": null,
+                "maxRewardableRate": 0.005000,
+                "isReceiveButtonHidden": false
+            },
+            {
+                "receiveTaskId": null,
+                "vipLevel": null,
+                "vipRewardType": null,
+                "amount": 0.0,
+                "rewardType": 29,
+                "createTime": "2026-03-12 22:46:37",
+                "receiveStatus": 0,
+                "recordType": 1,
+                "maxRewardableAmount": 1690000.0,
+                "maxRewardableRate": null,
+                "isReceiveButtonHidden": false
+            },
+            {
+                "receiveTaskId": null,
+                "vipLevel": null,
+                "vipRewardType": null,
+                "amount": 0.0,
+                "rewardType": 30,
+                "createTime": "2026-03-12 22:46:37",
+                "receiveStatus": 0,
+                "recordType": 1,
+                "maxRewardableAmount": 690000.0,
+                "maxRewardableRate": null,
+                "isReceiveButtonHidden": false
+            },
+            {
+                "receiveTaskId": null,
+                "vipLevel": null,
+                "vipRewardType": null,
+                "amount": 0.0,
+                "rewardType": 119,
+                "createTime": "2026-03-12 22:46:37",
+                "receiveStatus": 0,
+                "recordType": 1,
+                "maxRewardableAmount": 2000.0,
+                "maxRewardableRate": null,
+                "isReceiveButtonHidden": false
+            },
+            {
+                "receiveTaskId": null,
+                "vipLevel": null,
+                "vipRewardType": null,
+                "amount": 0.0,
+                "rewardType": 103,
+                "createTime": "2026-03-12 22:46:37",
+                "receiveStatus": 0,
+                "recordType": 1,
+                "maxRewardableAmount": 500.00,
+                "maxRewardableRate": null,
+                "isReceiveButtonHidden": false
+            },
+            {
+                "receiveTaskId": null,
+                "vipLevel": null,
+                "vipRewardType": null,
+                "amount": 0.0,
+                "rewardType": 116,
+                "createTime": "2026-03-12 22:46:37",
+                "receiveStatus": 0,
+                "recordType": 1,
+                "maxRewardableAmount": 200.00,
+                "maxRewardableRate": null,
+                "isReceiveButtonHidden": false
+            },
+            {
+                "receiveTaskId": null,
+                "vipLevel": null,
+                "vipRewardType": null,
+                "amount": 0.0,
+                "rewardType": 130,
+                "createTime": "2026-03-12 22:46:37",
+                "receiveStatus": 0,
+                "recordType": 1,
+                "maxRewardableAmount": 500.0,
+                "maxRewardableRate": null,
+                "isReceiveButtonHidden": false
+            }
+        ],
+        "pageNo": 1,
+        "totalPage": 1,
+        "totalCount": 10
+    },
+    "code": 0,
+    "msg": "Succeed",
+    "msgCode": 0,
+    "serviceNowTime": "2026-03-12 22:46:37"
+}

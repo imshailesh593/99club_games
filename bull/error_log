@@ -1,0 +1,42 @@
+[07-Aug-2026 15:05:10 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[08-Aug-2026 19:51:52 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/AccountQRCodeKotak Mahindra Bank  - 4595_LIGHT_THEME.png): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[08-Aug-2026 19:51:52 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbb6c3a' to '../images/AccountQRCodeKotak Mahindra Bank  - 4595_LIGHT_THEME.png' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[08-Aug-2026 19:55:54 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/IMG-20260808-WA0007.jpg): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[08-Aug-2026 19:55:54 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8G43hP' to '../images/IMG-20260808-WA0007.jpg' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[08-Aug-2026 19:56:11 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/IMG-20260808-WA0007.jpg): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[08-Aug-2026 19:56:11 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpS1GUki' to '../images/IMG-20260808-WA0007.jpg' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[08-Aug-2026 19:56:42 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/IMG-20260808-WA0007.jpg): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[08-Aug-2026 19:56:42 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBHVNvt' to '../images/IMG-20260808-WA0007.jpg' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[08-Aug-2026 19:56:56 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[08-Aug-2026 19:56:59 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[10-Aug-2026 19:29:21 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/WhatsApp Image 2026-08-10 at 7.26.34 PM.jpeg): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[10-Aug-2026 19:29:21 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvTD6zf' to '../images/WhatsApp Image 2026-08-10 at 7.26.34 PM.jpeg' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[10-Aug-2026 19:31:09 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[10-Aug-2026 19:32:48 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[10-Aug-2026 20:31:51 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[10-Aug-2026 20:32:47 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[10-Aug-2026 20:33:01 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/IMG-20260808-WA0007.jpg): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[10-Aug-2026 20:33:01 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php2g21fs' to '../images/IMG-20260808-WA0007.jpg' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[10-Aug-2026 20:33:11 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[10-Aug-2026 20:38:41 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[10-Aug-2026 20:38:58 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/IMG-20260808-WA0007.jpg): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[10-Aug-2026 20:38:58 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTh02Ar' to '../images/IMG-20260808-WA0007.jpg' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[10-Aug-2026 21:36:01 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/qr_scanner_extra_small.jpg): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[10-Aug-2026 21:36:01 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZTL3jq' to '../images/qr_scanner_extra_small.jpg' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[10-Aug-2026 22:58:03 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/IMG-20260808-WA0007.jpg): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[10-Aug-2026 22:58:03 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpN5bUmr' to '../images/IMG-20260808-WA0007.jpg' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[21-Aug-2026 15:07:22 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[21-Aug-2026 15:07:39 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[21-Aug-2026 15:07:52 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/IMG-20260808-WA0007.jpg): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[21-Aug-2026 15:07:52 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjFqdBE' to '../images/IMG-20260808-WA0007.jpg' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[23-Aug-2026 19:58:44 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[23-Aug-2026 19:58:58 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/AccountQRCodeKotak Mahindra Bank  - 4595_LIGHT_THEME.png): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[23-Aug-2026 19:58:58 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfMUiHv' to '../images/AccountQRCodeKotak Mahindra Bank  - 4595_LIGHT_THEME.png' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[25-Aug-2026 09:00:43 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/AccountQRCodeKotak Mahindra Bank  - 4595_LIGHT_THEME.png): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[25-Aug-2026 09:00:43 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpksH6CI' to '../images/AccountQRCodeKotak Mahindra Bank  - 4595_LIGHT_THEME.png' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[26-Aug-2026 22:49:22 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/AccountQRCodeKotak Mahindra Bank  - 4595_LIGHT_THEME~2.png): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[26-Aug-2026 22:49:22 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKu2QJw' to '../images/AccountQRCodeKotak Mahindra Bank  - 4595_LIGHT_THEME~2.png' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[30-Aug-2026 20:11:44 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[30-Aug-2026 20:12:32 Asia/Kolkata] PHP Warning:  getimagesize(): Filename cannot be empty in /home/clubvbra/public_html/bull/addupiimg.php on line 17
+[30-Aug-2026 20:12:42 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/AccountQRCodeKotak Mahindra Bank  - 4595_LIGHT_THEME.png): failed to open stream: No such file or directory in /home/clubvbra/public_html/bull/addupiimg.php on line 45
+[30-Aug-2026 20:12:42 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDmVcUm' to '../images/AccountQRCodeKotak Mahindra Bank  - 4595_LIGHT_THEME.png' in /home/clubvbra/public_html/bull/addupiimg.php on line 45
